@@ -8,7 +8,7 @@ I am a second-year student in the University Technology Diploma (BUT) in Compute
 - 🔭 I’m currently working on learning PHP 
 - 💬 Ask me about my university 
 - 📫 How to reach me: mathias_morel@ens.univ-artois.fr
-- 😄 Pronouns: Tatas
+- 😄 Old account: Tatas635
 
 ### 🛠️ Languages and Tools 
 
