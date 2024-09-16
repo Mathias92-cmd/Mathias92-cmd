@@ -5,7 +5,6 @@
 
 I am a second-year student in the University Technology Diploma (BUT) in Computer Science at Lens, specializing in application development. 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathias92-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="mathias92-cmd" /> </p>
 
