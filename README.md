@@ -42,7 +42,7 @@ I am a second-year student in the University Technology Diploma (BUT) in Compute
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="center">📊 Github Stats</h2>
 
 ###
 
