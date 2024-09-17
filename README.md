@@ -1,7 +1,12 @@
+<br clear="both">
 
-# 🌊♨️ Mathias
+<h1 align="center"> 🌊♨️ Mathias </h1> 
+
+###
 
 **`Computer science student`** 
+
+###
 
 I am a second-year student in the University Technology Diploma (BUT) in Computer Science at Lens, specializing in application development. 
 
@@ -38,8 +43,6 @@ I am a second-year student in the University Technology Diploma (BUT) in Compute
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
-<br>
-
 ###
 
 <h2 align="center">📊 Github Stats</h2>
@@ -55,19 +58,20 @@ I am a second-year student in the University Technology Diploma (BUT) in Compute
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mathias92-cmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathias92-cmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Mathias92-cmd&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-<br>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mathias92-cmd&theme=dark" alt="mathias92-cmd" />
-  </a> 
-</p>
 
 ###
 
+<h2><p align="center"> 📧 Contact me here : </p></h2>
 
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mathias-morel-753951329/" target="_blank" style="display: none;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="26" alt="linkedin logo" />
+  </a>
+</div>
 
 
 
