@@ -10,6 +10,8 @@ I am a second-year student in the University Technology Diploma (BUT) in Compute
 - 📫 How to reach me: mathias_morel@ens.univ-artois.fr
 - 😄 Old account: Tatas635
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathias92-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="mathias92-cmd" /> </p>
+
 ### 🛠️ Languages and Tools 
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -25,8 +27,6 @@ I am a second-year student in the University Technology Diploma (BUT) in Compute
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathias92-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="mathias92-cmd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathias92-cmd" alt="mathias92-cmd" /></a> </p>
 
