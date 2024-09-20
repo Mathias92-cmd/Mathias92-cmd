@@ -1,6 +1,10 @@
 <br clear="both">
 
-<h1 align="center"> 🌊♨️ Mathias </h1> 
+<h1 align="center"> 🌊♨️ Mathias </h1>       
+
+## 🌍 Language / Langue
+
+[![English](https://flagcdn.com/w20/gb.png)](README.en.md) [![Français](https://flagcdn.com/w20/fr.png)](README.fr.md)
 
 ###
 
