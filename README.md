@@ -4,7 +4,7 @@
 
 ## 🌍 Language / Langue
 
-[![English](https://flagcdn.com/w20/gb.png)](README.md) [![Français](https://flagcdn.com/w20/fr.png)](readme.fr.md)
+[![English](https://flagcdn.com/w20/gb.png)](https://github.com/Mathias92-cmd) [![Français](https://flagcdn.com/w20/fr.png)](readme.fr.md)
 
 ###
 
