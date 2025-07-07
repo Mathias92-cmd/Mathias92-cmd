@@ -14,7 +14,7 @@
 
 I am a second-year student in the University Technology Diploma (BUT) in Computer Science at Lens, specializing in application development. 
 
-- 🔭 I’m currently working on learning PHP 
+- 🔭 I’m currently working on learning React 
 - 💬 Ask me about my university 
 - 📫 How to reach me: mathias_morel@ens.univ-artois.fr
 - 😄 Old account: MathM62
@@ -47,6 +47,17 @@ I am a second-year student in the University Technology Diploma (BUT) in Compute
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="laravel logo"  />
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
   
 </div>
 
