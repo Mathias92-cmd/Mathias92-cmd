@@ -10,7 +10,7 @@
 
 ###
 
-Je suis étudiant en deuxième année du Diplôme Universitaire de Technologie (BUT) en Informatique à Lens, spécialisé dans le développement d'applications. 
+Je suis étudiant en troisième année du Diplôme Universitaire de Technologie (BUT) en Informatique à Lens, spécialisé dans le développement d'applications. 
 
 - 🔭 Je travaille actuellement sur l'apprentissage du PHP 
 - 💬 Demandez-moi à propos de mon université 
