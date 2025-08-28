@@ -12,7 +12,7 @@
 
 ###
 
-I am a second-year student in the University Technology Diploma (BUT) in Computer Science at Lens, specializing in application development. 
+I am a third-year student in the University Technology Diploma (BUT) in Computer Science at Lens, specializing in application development. 
 
 - 🔭 I’m currently working on learning React 
 - 💬 Ask me about my university 
